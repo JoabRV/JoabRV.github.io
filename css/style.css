@@ -98,22 +98,6 @@ nav.portfolio ul img {
     
 }
 
-/* contacto */
-nav.contacto {
-
-    display: block;
-    /* background-color: #333333; */
-}
-
-nav.contacto ul li {
-    display: inline;
-    margin-right: 30px;
-}
-
-nav.contacto ul img {
-    height: 60px;
-    width: 60px;
-}
 
 /* footer */
 
@@ -124,7 +108,7 @@ nav.footer {
         /* background-color: #333; */
         /* Estilo de fondo izquierdo */
         z-index: 1;
-    display: block;
+    /* display: block; */
     /* background-color: #333333; */
 }
 
